@@ -12,8 +12,11 @@ public class TestController {
     @Value("${eureka.instance.instance-id}")
     private String port;
 
+    @Value("${tmpVar}")
+    private String tmpVar;
+
     @GetMapping("/test")
     public String test() {
-        return port;
+        return port + ":" + tmpVar;
     }
 }

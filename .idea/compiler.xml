@@ -7,6 +7,8 @@
       <module name="eureca-client-2.test" target="17" />
       <module name="ru.snack.java.eureca-client-2.main" target="17" />
       <module name="ru.snack.java.eureca-client-2.test" target="17" />
+      <module name="ru.snack.java.github-config-server.main" target="17" />
+      <module name="ru.snack.java.github-config-server.test" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -31,6 +33,8 @@
       <module name="github-config-server.test" options="-parameters" />
       <module name="ru.snack.java.eureca-client-2.main" options="-parameters" />
       <module name="ru.snack.java.eureca-client-2.test" options="-parameters" />
+      <module name="ru.snack.java.github-config-server.main" options="-parameters" />
+      <module name="ru.snack.java.github-config-server.test" options="-parameters" />
     </option>
   </component>
 </project>
