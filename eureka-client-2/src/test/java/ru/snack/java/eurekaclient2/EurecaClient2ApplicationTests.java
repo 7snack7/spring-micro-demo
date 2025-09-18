@@ -1,4 +1,4 @@
-package ru.snack.java.eurecaclient2;
+package ru.snack.java.eurekaclient2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
