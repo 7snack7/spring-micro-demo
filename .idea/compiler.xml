@@ -5,6 +5,9 @@
       <module name="api-gateway" options="-parameters" />
       <module name="api-gateway.main" options="-parameters" />
       <module name="api-gateway.test" options="-parameters" />
+      <module name="eureca-client-2" options="-parameters" />
+      <module name="eureca-client-2.main" options="-parameters" />
+      <module name="eureca-client-2.test" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-client.main" options="-parameters" />
       <module name="eureka-client.test" options="-parameters" />
